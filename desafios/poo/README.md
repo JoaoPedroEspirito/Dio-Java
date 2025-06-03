@@ -1,5 +1,8 @@
-# Dio-Java
+# Modelagem UML do iPhone
 
+## Diagrama de Classes
+
+```mermaid
 classDiagram
     class iPhone {
         +modelo: String
@@ -38,3 +41,5 @@ classDiagram
     iPhone --|> ReprodutorMusical
     iPhone --|> AparelhoTelefonico
     iPhone --|> NavegadorInternet
+```
+*Figura 1: Diagrama de classes do iPhone.*
