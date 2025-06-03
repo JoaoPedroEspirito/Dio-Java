@@ -2,6 +2,8 @@
 
 ## Diagrama de Classes
 
+*Figura 1: Diagrama de classes do iPhone.*
+
 ```mermaid
 classDiagram
     class iPhone {
@@ -42,4 +44,3 @@ classDiagram
     iPhone --|> AparelhoTelefonico
     iPhone --|> NavegadorInternet
 ```
-*Figura 1: Diagrama de classes do iPhone.*
